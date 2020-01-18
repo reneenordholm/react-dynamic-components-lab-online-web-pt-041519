@@ -12,8 +12,8 @@ export default class ColorBox extends Component {
           <ColorBox opacity={newOpacity}/>
         </div>
       )
-  
+
     }
- 
+
   }
 }
